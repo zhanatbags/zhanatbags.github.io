@@ -1,1 +1,0 @@
-# zhanatbags.github.io

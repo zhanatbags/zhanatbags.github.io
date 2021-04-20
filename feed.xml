@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>ZHANAT BAGS</title>
+    <link href="https://zhanatbags.pl/feed.xml" rel="self" />
+    <link href="https://zhanatbags.pl" />
+    <updated>2021-04-20T08:28:13+02:00</updated>
+    <author>
+        <name>ZHANAT BAGS</name>
+    </author>
+    <id>https://zhanatbags.pl</id>
+
+    <entry>
+        <title>O nas</title>
+        <author>
+            <name>ZHANAT BAGS</name>
+        </author>
+        <link href="https://zhanatbags.pl/o-nas/"/>
+        <id>https://zhanatbags.pl/o-nas/</id>
+
+        <updated>2021-04-19T20:07:22+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Gdzie nas znaleźć?</title>
+        <author>
+            <name>ZHANAT BAGS</name>
+        </author>
+        <link href="https://zhanatbags.pl/gdzie-nas-znalezc/"/>
+        <id>https://zhanatbags.pl/gdzie-nas-znalezc/</id>
+
+        <updated>2021-04-19T20:14:21+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Instagram: @zhanatbags Facebook: @zhanatbagss Wybrane artykuły&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center"><a href="https://www.instagram.com/zhanatbags/">Instagram: @zhanatbags</a></p>
+<p class="align-center"><a href="https://facebook.com/zhanatbagss">Facebook: @zhanatbagss</a></p>
+<p>Wybrane artykuły również w Kuchni Konfliktu w Warszawie przy ulicy Wilczej 60.</p>
+<div class="post__iframe"><iframe loading="lazy" width="600" height="350" style="border: 1px solid black;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=21.007873713970184%2C52.22303799204033%2C21.011414229869846%2C52.22455618357595&amp;layer=mapnik&amp;marker=52.22379709429644%2C21.009643971920013"></iframe></div><br><small><a href="https://www.openstreetmap.org/?mlat=52.22380&amp;mlon=21.00964#map=19/52.22380/21.00964"></a></small></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Na zamówienie</title>
+        <author>
+            <name>ZHANAT BAGS</name>
+        </author>
+        <link href="https://zhanatbags.pl/na-zamowienie/"/>
+        <id>https://zhanatbags.pl/na-zamowienie/</id>
+
+        <updated>2021-04-20T08:28:13+02:00</updated>
+            <summary>
+                <![CDATA[
+                     Zapytanie zostało wysłanie. Wkrótce się&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<form id="form"><textarea id="text" style="margin: 0px; width: 706px; height: 102px;" name="text" required="" wrap="soft" placeholder="Opis zamówienia"></textarea> <br><input id="email" name="email" required="" type="email" placeholder="Adres e-mail"> <input type="submit" value="Wyślij zapytanie"></form>
+<p id="confirmation" style="opacity: 0;">Zapytanie zostało wysłanie. Wkrótce się skontaktujemy!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
