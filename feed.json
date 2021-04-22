@@ -13,13 +13,15 @@
             "id": "https://zhanatbags.pl/o-nas/",
             "url": "https://zhanatbags.pl/o-nas/",
             "title": "O nas",
+            "summary": "tekst",
+            "content_html": "<p>tekst</p>",
             "author": {
                 "name": "ZHANAT BAGS"
             },
             "tags": [
             ],
             "date_published": "2021-04-19T19:37:25+02:00",
-            "date_modified": "2021-04-19T20:07:22+02:00"
+            "date_modified": "2021-04-22T17:29:24+02:00"
         },
         {
             "id": "https://zhanatbags.pl/gdzie-nas-znalezc/",
