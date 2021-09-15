@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://zhanatbags.pl/plecak-worek-w-slonie/",
+            "url": "https://zhanatbags.pl/plecak-worek-w-slonie/",
+            "title": "Plecak worek w Slonie ",
+            "summary": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://zhanatbags.pl/media/posts/18/gallery/dc0pUTN41SE.jpg\" data-size=\"1440x2160\"><img loading=\"lazy\" src=\"https://zhanatbags.pl/media/posts/18/gallery/dc0pUTN41SE-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1152\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://zhanatbags.pl/media/posts/18/gallery/31XquyH9xAI.jpg\" data-size=\"1440x2160\"><img loading=\"lazy\" src=\"https://zhanatbags.pl/media/posts/18/gallery/31XquyH9xAI-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1152\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://zhanatbags.pl/media/posts/18/gallery/slon-roz.jpg\" data-size=\"1920x1817\"><img loading=\"lazy\" src=\"https://zhanatbags.pl/media/posts/18/gallery/slon-roz-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"727\"></a></figure>\n</div></div>\n",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://zhanatbags.pl/media/posts/18/gallery/dc0pUTN41SE.jpg\" data-size=\"1440x2160\"><img loading=\"lazy\" src=\"https://zhanatbags.pl/media/posts/18/gallery/dc0pUTN41SE-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1152\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://zhanatbags.pl/media/posts/18/gallery/31XquyH9xAI.jpg\" data-size=\"1440x2160\"><img loading=\"lazy\" src=\"https://zhanatbags.pl/media/posts/18/gallery/31XquyH9xAI-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1152\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://zhanatbags.pl/media/posts/18/gallery/slon-roz.jpg\" data-size=\"1920x1817\"><img loading=\"lazy\" src=\"https://zhanatbags.pl/media/posts/18/gallery/slon-roz-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"727\"></a></figure>\n</div></div>\n\n<p>Plecak worek w Słonie dla dziewczynki. Sprawdzi się jako worek do przedszkolu, na strój gimnastyczny, do szkoły i na różne wycieczki. Posiada zewnętrzny kieszeń na zamek.<span style=\"color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\">Jest odpowiedni dla dzieci od 3 roku życia.   </span></p>\n<p>Materiał : bawełna </p>\n<p>Wymiary:</p>\n<p>szerokość - 33 cm</p>\n<p>wysokość - 40 cm </p>\n<p> Cena: 60 PLN ( wysyłka przez paczkomat InPost darmowa)</p>\n<p> </p>\n<p>Na zamówienie: 7-10 dni roboczych</p>\n<p>   </p>\n<p> </p>",
+            "image": "https://zhanatbags.pl/media/posts/18/ZuAlyasP-ww.jpg",
+            "author": {
+                "name": "ZHANAT BAGS"
+            },
+            "tags": [
+                   "dla dzieci"
+            ],
+            "date_published": "2021-09-15T16:33:56+02:00",
+            "date_modified": "2021-09-15T16:33:56+02:00"
+        },
+        {
             "id": "https://zhanatbags.pl/plecak-dla-chlopcow-na-kazda-okazje/",
             "url": "https://zhanatbags.pl/plecak-dla-chlopcow-na-kazda-okazje/",
             "title": "Plecak dla chłopców na każdą okazję ",
@@ -141,20 +157,6 @@
             ],
             "date_published": "2021-04-15T14:30:51+02:00",
             "date_modified": "2021-04-22T17:23:11+02:00"
-        },
-        {
-            "id": "https://zhanatbags.pl/na-zamowienie/",
-            "url": "https://zhanatbags.pl/na-zamowienie/",
-            "title": "Na zamówienie",
-            "summary": " Zapytanie zostało wysłanie. Wkrótce się&hellip;",
-            "content_html": "<p> </p>\n<form id=\"form\"><textarea id=\"text\" style=\"margin: 0px; width: 706px; height: 102px;\" name=\"text\" required=\"\" wrap=\"soft\" placeholder=\"Opis zamówienia\"></textarea> <br><input id=\"email\" name=\"email\" required=\"\" type=\"email\" placeholder=\"Adres e-mail\"> <input type=\"submit\" value=\"Wyślij zapytanie\"></form>\n<p id=\"confirmation\" style=\"opacity: 0;\">Zapytanie zostało wysłanie. Wkrótce się skontaktujemy!</p>",
-            "author": {
-                "name": "ZHANAT BAGS"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-04-15T14:28:51+02:00",
-            "date_modified": "2021-04-20T08:28:13+02:00"
         }
     ]
 }

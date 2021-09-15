@@ -3,12 +3,55 @@
     <title>ZHANAT BAGS</title>
     <link href="https://zhanatbags.pl/feed.xml" rel="self" />
     <link href="https://zhanatbags.pl" />
-    <updated>2021-09-07T12:09:23+02:00</updated>
+    <updated>2021-09-15T16:33:56+02:00</updated>
     <author>
         <name>ZHANAT BAGS</name>
     </author>
     <id>https://zhanatbags.pl</id>
 
+    <entry>
+        <title>Plecak worek w Slonie </title>
+        <author>
+            <name>ZHANAT BAGS</name>
+        </author>
+        <link href="https://zhanatbags.pl/plecak-worek-w-slonie/"/>
+        <id>https://zhanatbags.pl/plecak-worek-w-slonie/</id>
+            <category term="dla dzieci"/>
+
+        <updated>2021-09-15T16:33:56+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://zhanatbags.pl/media/posts/18/ZuAlyasP-ww.jpg" alt="" />
+                    <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/18/gallery/dc0pUTN41SE.jpg" data-size="1440x2160"><img loading="lazy" src="https://zhanatbags.pl/media/posts/18/gallery/dc0pUTN41SE-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/18/gallery/31XquyH9xAI.jpg" data-size="1440x2160"><img loading="lazy" src="https://zhanatbags.pl/media/posts/18/gallery/31XquyH9xAI-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/18/gallery/slon-roz.jpg" data-size="1920x1817"><img loading="lazy" src="https://zhanatbags.pl/media/posts/18/gallery/slon-roz-thumbnail.jpg" alt="" width="768" height="727"></a></figure>
+</div></div>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://zhanatbags.pl/media/posts/18/ZuAlyasP-ww.jpg" alt="" />
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/18/gallery/dc0pUTN41SE.jpg" data-size="1440x2160"><img loading="lazy" src="https://zhanatbags.pl/media/posts/18/gallery/dc0pUTN41SE-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/18/gallery/31XquyH9xAI.jpg" data-size="1440x2160"><img loading="lazy" src="https://zhanatbags.pl/media/posts/18/gallery/31XquyH9xAI-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/18/gallery/slon-roz.jpg" data-size="1920x1817"><img loading="lazy" src="https://zhanatbags.pl/media/posts/18/gallery/slon-roz-thumbnail.jpg" alt="" width="768" height="727"></a></figure>
+</div></div>
+
+<p>Plecak worek w Słonie dla dziewczynki. Sprawdzi się jako worek do przedszkolu, na strój gimnastyczny, do szkoły i na różne wycieczki. Posiada zewnętrzny kieszeń na zamek.<span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Jest odpowiedni dla dzieci od 3 roku życia.   </span></p>
+<p>Materiał : bawełna </p>
+<p>Wymiary:</p>
+<p>szerokość - 33 cm</p>
+<p>wysokość - 40 cm </p>
+<p> Cena: 60 PLN ( wysyłka przez paczkomat InPost darmowa)</p>
+<p> </p>
+<p>Na zamówienie: 7-10 dni roboczych</p>
+<p>   </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Plecak dla chłopców na każdą okazję </title>
         <author>
@@ -302,28 +345,6 @@
 <p>Wybrane artykuły również w Kuchni Konfliktu w Warszawie przy ulicy Wilczej 60.</p>
 <hr>
 <div class="post__iframe"><iframe loading="lazy" width="600" height="350" style="border: 1px solid black;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=21.007873713970184%2C52.22303799204033%2C21.011414229869846%2C52.22455618357595&amp;layer=mapnik&amp;marker=52.22379709429644%2C21.009643971920013"></iframe></div><br><small><a href="https://www.openstreetmap.org/?mlat=52.22380&amp;mlon=21.00964#map=19/52.22380/21.00964"></a></small></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Na zamówienie</title>
-        <author>
-            <name>ZHANAT BAGS</name>
-        </author>
-        <link href="https://zhanatbags.pl/na-zamowienie/"/>
-        <id>https://zhanatbags.pl/na-zamowienie/</id>
-
-        <updated>2021-04-20T08:28:13+02:00</updated>
-            <summary>
-                <![CDATA[
-                     Zapytanie zostało wysłanie. Wkrótce się&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p> </p>
-<form id="form"><textarea id="text" style="margin: 0px; width: 706px; height: 102px;" name="text" required="" wrap="soft" placeholder="Opis zamówienia"></textarea> <br><input id="email" name="email" required="" type="email" placeholder="Adres e-mail"> <input type="submit" value="Wyślij zapytanie"></form>
-<p id="confirmation" style="opacity: 0;">Zapytanie zostało wysłanie. Wkrótce się skontaktujemy!</p>
             ]]>
         </content>
     </entry>
