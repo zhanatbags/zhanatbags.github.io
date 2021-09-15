@@ -3,7 +3,7 @@
     <title>ZHANAT BAGS</title>
     <link href="https://zhanatbags.pl/feed.xml" rel="self" />
     <link href="https://zhanatbags.pl" />
-    <updated>2021-09-15T16:33:56+02:00</updated>
+    <updated>2021-09-15T17:16:56+02:00</updated>
     <author>
         <name>ZHANAT BAGS</name>
     </author>
@@ -332,19 +332,26 @@
         <link href="https://zhanatbags.pl/gdzie-nas-znalezc/"/>
         <id>https://zhanatbags.pl/gdzie-nas-znalezc/</id>
 
-        <updated>2021-04-22T17:23:11+02:00</updated>
+        <updated>2021-09-15T17:16:56+02:00</updated>
             <summary>
                 <![CDATA[
-                    Instagram: @zhanatbags Facebook: @zhanatbagss Wybrane artykuły&hellip;
+                    <p class="align-center"><a href="https://www.instagram.com/zhanatbags/">Instagram: @zhanatbags</a></p>
+<p class="align-center"><a href="https://facebook.com/zhanatbagss">Facebook: @zhanatbagss</a></p>
+<p> </p>
+<hr>
+<p> </p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p class="align-center"><a href="https://www.instagram.com/zhanatbags/">Instagram: @zhanatbags</a></p>
 <p class="align-center"><a href="https://facebook.com/zhanatbagss">Facebook: @zhanatbagss</a></p>
-<p>Wybrane artykuły również w Kuchni Konfliktu w Warszawie przy ulicy Wilczej 60.</p>
+<p> </p>
 <hr>
-<div class="post__iframe"><iframe loading="lazy" width="600" height="350" style="border: 1px solid black;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=21.007873713970184%2C52.22303799204033%2C21.011414229869846%2C52.22455618357595&amp;layer=mapnik&amp;marker=52.22379709429644%2C21.009643971920013"></iframe></div><br><small><a href="https://www.openstreetmap.org/?mlat=52.22380&amp;mlon=21.00964#map=19/52.22380/21.00964"></a></small></p>
+<p> </p>
+
+<p> </p>
             ]]>
         </content>
     </entry>
