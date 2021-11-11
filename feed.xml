@@ -3,12 +3,57 @@
     <title>ZHANAT BAGS</title>
     <link href="https://zhanatbags.pl/feed.xml" rel="self" />
     <link href="https://zhanatbags.pl" />
-    <updated>2021-09-15T17:27:28+02:00</updated>
+    <updated>2021-11-11T21:14:19+01:00</updated>
     <author>
         <name>ZHANAT BAGS</name>
     </author>
     <id>https://zhanatbags.pl</id>
 
+    <entry>
+        <title>Nerka XXL z tkaniny obiciowej</title>
+        <author>
+            <name>ZHANAT BAGS</name>
+        </author>
+        <link href="https://zhanatbags.pl/nerka-xxl-z-tkaniny-obiciowej/"/>
+        <id>https://zhanatbags.pl/nerka-xxl-z-tkaniny-obiciowej/</id>
+            <category term="nerki"/>
+
+        <updated>2021-11-11T21:14:19+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://zhanatbags.pl/media/posts/19/5jUnUh8u57M.jpg" alt="" />
+                
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/19/gallery/5jUnUh8u57M.jpg" data-size="2560x1777"><img loading="lazy" src="https://zhanatbags.pl/media/posts/19/gallery/5jUnUh8u57M-thumbnail.jpg" alt="" width="768" height="533"></a></figure>
+<figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/19/gallery/6qJLcT2GyeM.jpg" data-size="2160x2160"><img loading="lazy" src="https://zhanatbags.pl/media/posts/19/gallery/6qJLcT2GyeM-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/19/gallery/RHNSUYK2xKY.jpg" data-size="2560x1920"><img loading="lazy" src="https://zhanatbags.pl/media/posts/19/gallery/RHNSUYK2xKY-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/19/gallery/uIkl2llSOhI.jpg" data-size="2160x2160"><img loading="lazy" src="https://zhanatbags.pl/media/posts/19/gallery/uIkl2llSOhI-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/19/gallery/ZLOCqHG1e6U.jpg" data-size="2160x2160"><img loading="lazy" src="https://zhanatbags.pl/media/posts/19/gallery/ZLOCqHG1e6U-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+</div></div>
+
+<p>Nerka z materiału obiciowego - Zero Waste - </p>
+<p>Została uszyta z materiału od drugiej ręki. Dzięki temu nerka jest wyjątkowa i niepowtarzalna. Jest pojemna, wygodna, wiele funkcjonalna, ma trzy kieszeni na niezbędnie rzeczy, na które zawsze będziesz miała miejsce. </p>
+<p>Możesz nosić jak torbę na ramię, przez ramię lub na biodra jak saszetkę</p>
+
+<p> Rozmiar: XXL, wymiary : 45 X 18.</p>
+<p>Pojemność : mieści się książka w formacie A5, notatnik, butelkę 0.5, portmonetka, okulary, piernik, klucze i wiele pozostałych rzecz, bez których nie możesz wyjdź z domu.</p>
+<p>Ilość kieszeni : trzy  ( z przodu, z tylu i w środku ). Wszystkie kieszeni zamykają się na zamek.</p>
+<p>Pasek: poliester, długość: ok 120cm</p>
+<p>Podszewka: w kwadraty</p>
+<p>Dostępność : Tak✔️</p>
+
+<p> </p>
+<p>  Cena: 120PLN ( wysyłka przez paczkomat InPost jest darmowa )</p>
+<p> </p>
+<p> </p>
+
+<p>Również szyjemy nerki na zamówienie. Na wybór może być : kolor, wzór, rodzaj tkaniny, podszewka, ilość kieszeni. Bierzemy pod uwagę wszystkie dodatkowe życzenia. </p>
+<p> W razie jakikolwiek pytań - z przyjemnością zapraszamy do kontaktu :) </p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Plecak worek w Slonie </title>
         <author>
@@ -314,28 +359,6 @@
 <p> </p>
 
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Na zamówienie</title>
-        <author>
-            <name>ZHANAT BAGS</name>
-        </author>
-        <link href="https://zhanatbags.pl/na-zamowienie/"/>
-        <id>https://zhanatbags.pl/na-zamowienie/</id>
-
-        <updated>2021-04-20T08:28:13+02:00</updated>
-            <summary>
-                <![CDATA[
-                     Zapytanie zostało wysłanie. Wkrótce się&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p> </p>
-<form id="form"><textarea id="text" style="margin: 0px; width: 706px; height: 102px;" name="text" required="" wrap="soft" placeholder="Opis zamówienia"></textarea> <br><input id="email" name="email" required="" type="email" placeholder="Adres e-mail"> <input type="submit" value="Wyślij zapytanie"></form>
-<p id="confirmation" style="opacity: 0;">Zapytanie zostało wysłanie. Wkrótce się skontaktujemy!</p>
             ]]>
         </content>
     </entry>

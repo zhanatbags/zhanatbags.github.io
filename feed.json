@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://zhanatbags.pl/nerka-xxl-z-tkaniny-obiciowej/",
+            "url": "https://zhanatbags.pl/nerka-xxl-z-tkaniny-obiciowej/",
+            "title": "Nerka XXL z tkaniny obiciowej",
+            "content_html": "\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://zhanatbags.pl/media/posts/19/gallery/5jUnUh8u57M.jpg\" data-size=\"2560x1777\"><img loading=\"lazy\" src=\"https://zhanatbags.pl/media/posts/19/gallery/5jUnUh8u57M-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"533\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://zhanatbags.pl/media/posts/19/gallery/6qJLcT2GyeM.jpg\" data-size=\"2160x2160\"><img loading=\"lazy\" src=\"https://zhanatbags.pl/media/posts/19/gallery/6qJLcT2GyeM-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://zhanatbags.pl/media/posts/19/gallery/RHNSUYK2xKY.jpg\" data-size=\"2560x1920\"><img loading=\"lazy\" src=\"https://zhanatbags.pl/media/posts/19/gallery/RHNSUYK2xKY-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://zhanatbags.pl/media/posts/19/gallery/uIkl2llSOhI.jpg\" data-size=\"2160x2160\"><img loading=\"lazy\" src=\"https://zhanatbags.pl/media/posts/19/gallery/uIkl2llSOhI-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://zhanatbags.pl/media/posts/19/gallery/ZLOCqHG1e6U.jpg\" data-size=\"2160x2160\"><img loading=\"lazy\" src=\"https://zhanatbags.pl/media/posts/19/gallery/ZLOCqHG1e6U-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n</div></div>\n\n<p>Nerka z materiału obiciowego - Zero Waste - </p>\n<p>Została uszyta z materiału od drugiej ręki. Dzięki temu nerka jest wyjątkowa i niepowtarzalna. Jest pojemna, wygodna, wiele funkcjonalna, ma trzy kieszeni na niezbędnie rzeczy, na które zawsze będziesz miała miejsce. </p>\n<p>Możesz nosić jak torbę na ramię, przez ramię lub na biodra jak saszetkę</p>\n\n<p> Rozmiar: XXL, wymiary : 45 X 18.</p>\n<p>Pojemność : mieści się książka w formacie A5, notatnik, butelkę 0.5, portmonetka, okulary, piernik, klucze i wiele pozostałych rzecz, bez których nie możesz wyjdź z domu.</p>\n<p>Ilość kieszeni : trzy  ( z przodu, z tylu i w środku ). Wszystkie kieszeni zamykają się na zamek.</p>\n<p>Pasek: poliester, długość: ok 120cm</p>\n<p>Podszewka: w kwadraty</p>\n<p>Dostępność : Tak✔️</p>\n\n<p> </p>\n<p>  Cena: 120PLN ( wysyłka przez paczkomat InPost jest darmowa )</p>\n<p> </p>\n<p> </p>\n\n<p>Również szyjemy nerki na zamówienie. Na wybór może być : kolor, wzór, rodzaj tkaniny, podszewka, ilość kieszeni. Bierzemy pod uwagę wszystkie dodatkowe życzenia. </p>\n<p> W razie jakikolwiek pytań - z przyjemnością zapraszamy do kontaktu :) </p>\n",
+            "image": "https://zhanatbags.pl/media/posts/19/5jUnUh8u57M.jpg",
+            "author": {
+                "name": "ZHANAT BAGS"
+            },
+            "tags": [
+                   "nerki"
+            ],
+            "date_published": "2021-11-11T21:14:19+01:00",
+            "date_modified": "2021-11-11T21:14:19+01:00"
+        },
+        {
             "id": "https://zhanatbags.pl/plecak-worek-w-slonie/",
             "url": "https://zhanatbags.pl/plecak-worek-w-slonie/",
             "title": "Plecak worek w Slonie ",
@@ -142,20 +157,6 @@
             ],
             "date_published": "2021-04-15T14:30:51+02:00",
             "date_modified": "2021-09-15T17:16:56+02:00"
-        },
-        {
-            "id": "https://zhanatbags.pl/na-zamowienie/",
-            "url": "https://zhanatbags.pl/na-zamowienie/",
-            "title": "Na zamówienie",
-            "summary": " Zapytanie zostało wysłanie. Wkrótce się&hellip;",
-            "content_html": "<p> </p>\n<form id=\"form\"><textarea id=\"text\" style=\"margin: 0px; width: 706px; height: 102px;\" name=\"text\" required=\"\" wrap=\"soft\" placeholder=\"Opis zamówienia\"></textarea> <br><input id=\"email\" name=\"email\" required=\"\" type=\"email\" placeholder=\"Adres e-mail\"> <input type=\"submit\" value=\"Wyślij zapytanie\"></form>\n<p id=\"confirmation\" style=\"opacity: 0;\">Zapytanie zostało wysłanie. Wkrótce się skontaktujemy!</p>",
-            "author": {
-                "name": "ZHANAT BAGS"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-04-15T14:28:51+02:00",
-            "date_modified": "2021-04-20T08:28:13+02:00"
         }
     ]
 }
