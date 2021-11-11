@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://zhanatbags.pl/nerka-s-choco/",
+            "url": "https://zhanatbags.pl/nerka-s-choco/",
+            "title": "Nerka S Choco ",
+            "summary": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://zhanatbags.pl/media/posts/21/gallery/a_QksFGx4Hs.jpg\" data-size=\"2160x2160\"><img loading=\"lazy\" src=\"https://zhanatbags.pl/media/posts/21/gallery/a_QksFGx4Hs-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://zhanatbags.pl/media/posts/21/gallery/xmKEkPmPc5w.jpg\" data-size=\"2160x2160\"><img loading=\"lazy\" src=\"https://zhanatbags.pl/media/posts/21/gallery/xmKEkPmPc5w-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://zhanatbags.pl/media/posts/21/gallery/wYeyWEy_Vf8.jpg\" data-size=\"2160x2160\"><img loading=\"lazy\" src=\"https://zhanatbags.pl/media/posts/21/gallery/wYeyWEy_Vf8-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n</div></div>\n",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://zhanatbags.pl/media/posts/21/gallery/a_QksFGx4Hs.jpg\" data-size=\"2160x2160\"><img loading=\"lazy\" src=\"https://zhanatbags.pl/media/posts/21/gallery/a_QksFGx4Hs-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://zhanatbags.pl/media/posts/21/gallery/xmKEkPmPc5w.jpg\" data-size=\"2160x2160\"><img loading=\"lazy\" src=\"https://zhanatbags.pl/media/posts/21/gallery/xmKEkPmPc5w-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://zhanatbags.pl/media/posts/21/gallery/wYeyWEy_Vf8.jpg\" data-size=\"2160x2160\"><img loading=\"lazy\" src=\"https://zhanatbags.pl/media/posts/21/gallery/wYeyWEy_Vf8-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n</div></div>\n\n<p>Nerka z materiału obiciowego z polaczeniu dwóch kolorów. Tyl nerki ma ciemniejszy szary kolor, podobny do koloru klapki. </p>\n\n<p>Rozmiar: S, wymiary: 30 X 13</p>\n<p>Ilość kieszeni: dwa ( z tylu i w środku )</p>\n<p>Pasek: poliester, długość: około 110cm </p>\n<p>Podszewka: w czarne paski </p>\n<p>Dostępność : Tak ✔️</p>\n\n<p>Cena: 85PLN ( wysyłka przez paczkomat Inspot jest darmowa )</p>\n<p> </p>\n\n<p>Szyjemy nerki na zamówienie. Czas realizacji 7 - 10 dni roboczych. </p>\n<p>Na wybór: kolor, rodzaj tkaniny, wzór itd. Bierzemy pod uwagę wszystkie dodatkowe życzenia. </p>\n<p>W razie jakikolwiek pytań - z przyjemnością zapraszamy do kontaktu :)  </p>",
+            "image": "https://zhanatbags.pl/media/posts/21/a_QksFGx4Hs.jpg",
+            "author": {
+                "name": "ZHANAT BAGS"
+            },
+            "tags": [
+                   "nerki"
+            ],
+            "date_published": "2021-11-11T22:25:36+01:00",
+            "date_modified": "2021-11-11T22:25:36+01:00"
+        },
+        {
             "id": "https://zhanatbags.pl/nerka-s-z-tkaniny-obiciowej/",
             "url": "https://zhanatbags.pl/nerka-s-z-tkaniny-obiciowej/",
             "title": "Nerka S z tkaniny obiciowej ",
@@ -22,7 +38,7 @@
                    "nerki"
             ],
             "date_published": "2021-11-11T21:48:14+01:00",
-            "date_modified": "2021-11-11T21:49:58+01:00"
+            "date_modified": "2021-11-11T21:55:38+01:00"
         },
         {
             "id": "https://zhanatbags.pl/nerka-xxl-z-tkaniny-obiciowej/",
@@ -142,20 +158,6 @@
             ],
             "date_published": "2021-04-15T14:30:51+02:00",
             "date_modified": "2021-09-15T17:16:56+02:00"
-        },
-        {
-            "id": "https://zhanatbags.pl/na-zamowienie/",
-            "url": "https://zhanatbags.pl/na-zamowienie/",
-            "title": "Na zamówienie",
-            "summary": " Zapytanie zostało wysłanie. Wkrótce się&hellip;",
-            "content_html": "<p> </p>\n<form id=\"form\"><textarea id=\"text\" style=\"margin: 0px; width: 706px; height: 102px;\" name=\"text\" required=\"\" wrap=\"soft\" placeholder=\"Opis zamówienia\"></textarea> <br><input id=\"email\" name=\"email\" required=\"\" type=\"email\" placeholder=\"Adres e-mail\"> <input type=\"submit\" value=\"Wyślij zapytanie\"></form>\n<p id=\"confirmation\" style=\"opacity: 0;\">Zapytanie zostało wysłanie. Wkrótce się skontaktujemy!</p>",
-            "author": {
-                "name": "ZHANAT BAGS"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-04-15T14:28:51+02:00",
-            "date_modified": "2021-04-20T08:28:13+02:00"
         }
     ]
 }
