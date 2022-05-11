@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://zhanatbags.pl/nerka-w-rozmiarze-s-kolorowa/",
+            "url": "https://zhanatbags.pl/nerka-w-rozmiarze-s-kolorowa/",
+            "title": "Nerka w rozmiarze S - kolorowa ",
+            "content_html": "\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://zhanatbags.pl/media/posts/47/gallery/nerka-przod.jpg\" data-size=\"1298x1624\"><img loading=\"lazy\" src=\"https://zhanatbags.pl/media/posts/47/gallery/nerka-przod-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"961\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://zhanatbags.pl/media/posts/47/gallery/nerkatyl.jpg\" data-size=\"1298x1624\"><img loading=\"lazy\" src=\"https://zhanatbags.pl/media/posts/47/gallery/nerkatyl-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"961\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://zhanatbags.pl/media/posts/47/gallery/nerka-klapa.jpg\" data-size=\"1218x1624\"><img loading=\"lazy\" src=\"https://zhanatbags.pl/media/posts/47/gallery/nerka-klapa-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n</div></div>\n<p>Kolorowa nerka/saszetka, uszyta z materiału bawełnianego w polaczeniu z tkaniną wodoodporną, w rozmiarze S (30 cm X 13 cm X 8 cm)<br><br>Nerka posiada: małą kieszeń z przodu i kieszeń wewnątrz zamykana na zamek<br><br>Połączyłyśmy dwie tkaniny- to bawełna i tkanina wodoodporna <figure class=\"emoji\"><img loading=\"lazy\"  src=\"https://vk.com/emoji/e/f09f9295.png\" data-is-external-image=\"true\"  alt=\"💕\"></figure><br><br>Pasek- koło 120 cm<br><br>Dostępna od ręki - CENA: 90 PLN (darmowa wysyłka przez paczkomat InPost)<br><br>W razie jakichkolwiek pytań - jesteśmy do Twojej dyspozycji </p>\n",
+            "image": "https://zhanatbags.pl/media/posts/47/nerka-przod.jpg",
+            "author": {
+                "name": "ZHANAT BAGS"
+            },
+            "tags": [
+                   "nerki"
+            ],
+            "date_published": "2022-05-11T12:30:38+02:00",
+            "date_modified": "2022-05-11T12:30:38+02:00"
+        },
+        {
             "id": "https://zhanatbags.pl/jeansowa-torba-haftowana/",
             "url": "https://zhanatbags.pl/jeansowa-torba-haftowana/",
             "title": "Jeansowa torba haftowana ",
@@ -146,21 +161,6 @@
             ],
             "date_published": "2022-03-08T16:34:11+01:00",
             "date_modified": "2022-03-21T19:29:17+01:00"
-        },
-        {
-            "id": "https://zhanatbags.pl/plecak-w-magnolii/",
-            "url": "https://zhanatbags.pl/plecak-w-magnolii/",
-            "title": "Plecak w magnolii ",
-            "content_html": "\n<p> </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://zhanatbags.pl/media/posts/35/gallery/magnolia-prz.jpg\" data-size=\"1440x1399\"><img loading=\"lazy\" src=\"https://zhanatbags.pl/media/posts/35/gallery/magnolia-prz-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"746\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://zhanatbags.pl/media/posts/35/gallery/magniliii.jpg\" data-size=\"1440x1401\"><img loading=\"lazy\" src=\"https://zhanatbags.pl/media/posts/35/gallery/magniliii-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"747\"></a></figure>\n</div></div>\n\n<p>Plecak z motywem pięknych kwiatów magnolii jest sam raz na wiosnę, jest praktyczny i kolorowy. </p>\n<p>Powstał z materiału wodoodpornego, podszewka w różne kolory.  Mieści się format A4. Regulowany pasek u góry plecaka.</p>\n<p>Plecak posiada:</p>\n<p>- kieszeń na laptopa 15 cali </p>\n<p>- kieszeń wewnątrz na suwak i dwie dodatkowe kieszonki </p>\n<p>- kieszeń zewnątrz z przodu i pionowa z tylu zapinane na suwak </p>\n<p>- kieszeń boczna na butelkę </p>\n<p>Wymiary:</p>\n<p>szerokość - 37 cm </p>\n<p>wysokość - 47 cm (po zamknięciu na klamerkę - 35 cm)</p>\n<p>głębokość - 11 cm </p>\n<p> </p>\n<p>Dostępny od ręki - CENA: 159 PLN (darmowa wysyłka przez paczkomat InPost)</p>\n<p>W razie jakichkolwiek pytań - jesteśmy do Twojej dyspozycji :)</p>\n<p> </p>",
-            "image": "https://zhanatbags.pl/media/posts/35/magnolia-prz.jpg",
-            "author": {
-                "name": "ZHANAT BAGS"
-            },
-            "tags": [
-                   "plecaki"
-            ],
-            "date_published": "2022-02-14T13:05:46+01:00",
-            "date_modified": "2022-03-08T15:31:16+01:00"
         }
     ]
 }
