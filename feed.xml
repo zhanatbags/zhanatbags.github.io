@@ -1,14 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>ZHANAT BAGS</title>
     <link href="https://zhanatbags.pl/feed.xml" rel="self" />
     <link href="https://zhanatbags.pl" />
-    <updated>2023-01-30T10:59:54+01:00</updated>
+    <updated>2023-02-20T11:32:52+01:00</updated>
     <author>
         <name>ZHANAT BAGS</name>
     </author>
     <id>https://zhanatbags.pl</id>
 
+    <entry>
+        <title>Torba w piwonie kwiaty </title>
+        <author>
+            <name>ZHANAT BAGS</name>
+        </author>
+        <link href="https://zhanatbags.pl/torba-w-piwonie-kwiaty/"/>
+        <id>https://zhanatbags.pl/torba-w-piwonie-kwiaty/</id>
+        <media:content url="https://zhanatbags.pl/media/posts/87/yE_Mz3rhPaU.jpg" medium="image" />
+            <category term="torby"/>
+
+        <updated>2023-02-20T11:32:52+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://zhanatbags.pl/media/posts/87/yE_Mz3rhPaU.jpg" class="type:primaryImage" alt="" /></p>
+                
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/87/gallery/yE_Mz3rhPaU.jpg" data-size="1920x1439"><img loading="lazy" src="https://zhanatbags.pl/media/posts/87/gallery/yE_Mz3rhPaU-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/87/gallery/ha9iFDDNNV4.jpg" data-size="1218x1624"><img loading="lazy" src="https://zhanatbags.pl/media/posts/87/gallery/ha9iFDDNNV4-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/87/gallery/w_y9f2th_1Y.jpg" data-size="1218x1624"><img loading="lazy" src="https://zhanatbags.pl/media/posts/87/gallery/w_y9f2th_1Y-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/87/gallery/2hF2IooCdy8.jpg" data-size="1218x1624"><img loading="lazy" src="https://zhanatbags.pl/media/posts/87/gallery/2hF2IooCdy8-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+</div></div>
+
+<p>Torba w piwonie kwiaty z materiału wodoodpornego w połączeniu ze wzorem w duże kwiaty. </p>
+<p>Posiada wiele ilość kieszeń, jest funkcjonalna, można nosić na co dzień i zmieścić lunch boxy do pracy.<br>Oraz posiada długi regulowany uchwyt - około 120 cm, dzięki temu można nosić przez ramię lub na ramię - jak Ci wygodniej <br><br>Posiada:<br>- dwie zewnętrzne duże kieszonki na magnes<br>- wewnątrz kieszeń na zamek, cztery kieszeni otwarte z dobrą pojemnością<br>- krótki uchwyt plus długi na karabińczyk<br>- cały wodoodporny<br>- podszewka w kolorze szarym bawełnianym<br>- 31 cm (wys.) X 35 cm (szer.) X 13 cm(głęb.)<br>- dobrze usztywniona</p>
+<p><strong>DOSTĘPNA</strong> <strong>OD RĘKI</strong> </p>
+<p><br><strong>CENA </strong>: 175 PLN ( wysyłka przez paczkomat InPost jest darmowa)</p>
+<p>Możliwa realizacja na zamówienie w dowolnym dla Ciebie kolorze/wzorze. Czas realizacji 7-10 dni roboczych(jeśli tkanina jest na zamówienie, to czas realizacji przedłuża się na 3-4dni). W razie jakichkolwiek pytań - jesteśmy do Twojej dyspozycji. Zapraszamy!:)</p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Plecak wodoodporny w łapacz snów</title>
         <author>
@@ -16,12 +48,13 @@
         </author>
         <link href="https://zhanatbags.pl/plecak-wodoodporny-w-lapacz-snow/"/>
         <id>https://zhanatbags.pl/plecak-wodoodporny-w-lapacz-snow/</id>
+        <media:content url="https://zhanatbags.pl/media/posts/86/8o6wPk29jeg.jpg" medium="image" />
 
-        <updated>2023-01-30T10:47:47+01:00</updated>
+        <updated>2023-02-20T11:32:37+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://zhanatbags.pl/media/posts/86/8o6wPk29jeg.jpg" alt="" />
+                    <p><img src="https://zhanatbags.pl/media/posts/86/8o6wPk29jeg.jpg" class="type:primaryImage" alt="" /></p>
                 
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/86/gallery/8o6wPk29jeg.jpg" data-size="1298x1624"><img loading="lazy" src="https://zhanatbags.pl/media/posts/86/gallery/8o6wPk29jeg-thumbnail.jpg" alt="" width="768" height="961"></a></figure>
@@ -45,13 +78,14 @@
         </author>
         <link href="https://zhanatbags.pl/nerka-xxl-z-eko-skory-w-kolorze-szarym/"/>
         <id>https://zhanatbags.pl/nerka-xxl-z-eko-skory-w-kolorze-szarym/</id>
+        <media:content url="https://zhanatbags.pl/media/posts/85/fKcp0TAlsQ8.jpg" medium="image" />
             <category term="nerki"/>
 
         <updated>2023-01-30T10:59:54+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://zhanatbags.pl/media/posts/85/fKcp0TAlsQ8.jpg" alt="" />
+                    <p><img src="https://zhanatbags.pl/media/posts/85/fKcp0TAlsQ8.jpg" class="type:primaryImage" alt="" /></p>
                 
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/85/gallery/XTA-KqhsWec.jpg" data-size="1031x1031"><img loading="lazy" src="https://zhanatbags.pl/media/posts/85/gallery/XTA-KqhsWec-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
@@ -72,13 +106,14 @@
         </author>
         <link href="https://zhanatbags.pl/nerka-xxl-z-eko-skory-w-kolorze-brazowym/"/>
         <id>https://zhanatbags.pl/nerka-xxl-z-eko-skory-w-kolorze-brazowym/</id>
+        <media:content url="https://zhanatbags.pl/media/posts/84/SBso6QT3muw.jpg" medium="image" />
             <category term="nerki"/>
 
         <updated>2023-01-18T09:49:00+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://zhanatbags.pl/media/posts/84/SBso6QT3muw.jpg" alt="" />
+                    <p><img src="https://zhanatbags.pl/media/posts/84/SBso6QT3muw.jpg" class="type:primaryImage" alt="" /></p>
                 
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/84/gallery/SBso6QT3muw.jpg" data-size="1080x1080"><img loading="lazy" src="https://zhanatbags.pl/media/posts/84/gallery/SBso6QT3muw-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
@@ -100,13 +135,14 @@
         </author>
         <link href="https://zhanatbags.pl/duze-kosmetyczki-w-trzech-roznych-kolorach/"/>
         <id>https://zhanatbags.pl/duze-kosmetyczki-w-trzech-roznych-kolorach/</id>
+        <media:content url="https://zhanatbags.pl/media/posts/83/tgqFwSV6SUA.jpg" medium="image" />
             <category term="torby"/>
 
         <updated>2022-12-19T20:57:25+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://zhanatbags.pl/media/posts/83/tgqFwSV6SUA.jpg" alt="" />
+                    <p><img src="https://zhanatbags.pl/media/posts/83/tgqFwSV6SUA.jpg" class="type:primaryImage" alt="" /></p>
                 
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/83/gallery/V4eGnmB4Rww.jpg" data-size="1500x1067"><img loading="lazy" src="https://zhanatbags.pl/media/posts/83/gallery/V4eGnmB4Rww-thumbnail.jpg" alt="" width="768" height="546"></a></figure>
@@ -131,13 +167,14 @@
         </author>
         <link href="https://zhanatbags.pl/kosmetyczki-w-dwoch-ksztaltach-z-orientalnym-wzorem/"/>
         <id>https://zhanatbags.pl/kosmetyczki-w-dwoch-ksztaltach-z-orientalnym-wzorem/</id>
+        <media:content url="https://zhanatbags.pl/media/posts/82/QIumxkgcQcg.jpg" medium="image" />
             <category term="torby"/>
 
         <updated>2022-12-19T20:57:48+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://zhanatbags.pl/media/posts/82/QIumxkgcQcg.jpg" alt="" />
+                    <p><img src="https://zhanatbags.pl/media/posts/82/QIumxkgcQcg.jpg" class="type:primaryImage" alt="" /></p>
                 
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/82/gallery/QIumxkgcQcg.jpg" data-size="1500x1160"><img loading="lazy" src="https://zhanatbags.pl/media/posts/82/gallery/QIumxkgcQcg-thumbnail.jpg" alt="" width="768" height="594"></a></figure>
@@ -166,12 +203,13 @@
         </author>
         <link href="https://zhanatbags.pl/male-kosmetyczki-w-roznych-kolorach/"/>
         <id>https://zhanatbags.pl/male-kosmetyczki-w-roznych-kolorach/</id>
+        <media:content url="https://zhanatbags.pl/media/posts/81/4I8BVYAL8Nk.jpg" medium="image" />
 
         <updated>2023-01-15T09:49:29+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://zhanatbags.pl/media/posts/81/4I8BVYAL8Nk.jpg" alt="" />
+                    <p><img src="https://zhanatbags.pl/media/posts/81/4I8BVYAL8Nk.jpg" class="type:primaryImage" alt="" /></p>
                 
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/81/gallery/cdRdN7fMkCI.jpg" data-size="1500x1500"><img loading="lazy" src="https://zhanatbags.pl/media/posts/81/gallery/cdRdN7fMkCI-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
@@ -203,6 +241,7 @@
         </author>
         <link href="https://zhanatbags.pl/nerka-slim-jeans-w-kolorze-bordowym/"/>
         <id>https://zhanatbags.pl/nerka-slim-jeans-w-kolorze-bordowym/</id>
+        <media:content url="https://zhanatbags.pl/media/posts/80/zFJX1Z8H45w.jpg" medium="image" />
             <category term="torby"/>
             <category term="nerki"/>
 
@@ -210,7 +249,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://zhanatbags.pl/media/posts/80/zFJX1Z8H45w.jpg" alt="" />
+                    <p><img src="https://zhanatbags.pl/media/posts/80/zFJX1Z8H45w.jpg" class="type:primaryImage" alt="" /></p>
                 
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/80/gallery/zFJX1Z8H45w.jpg" data-size="1920x1372"><img loading="lazy" src="https://zhanatbags.pl/media/posts/80/gallery/zFJX1Z8H45w-thumbnail.jpg" alt="" width="768" height="549"></a></figure>
@@ -255,6 +294,7 @@
         </author>
         <link href="https://zhanatbags.pl/nerka-slim-bawelna-canvas-szara/"/>
         <id>https://zhanatbags.pl/nerka-slim-bawelna-canvas-szara/</id>
+        <media:content url="https://zhanatbags.pl/media/posts/79/kaRktkhkG4A.jpg" medium="image" />
             <category term="torby"/>
             <category term="nerki"/>
 
@@ -262,7 +302,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://zhanatbags.pl/media/posts/79/kaRktkhkG4A.jpg" alt="" />
+                    <p><img src="https://zhanatbags.pl/media/posts/79/kaRktkhkG4A.jpg" class="type:primaryImage" alt="" /></p>
                 
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/79/gallery/kaRktkhkG4A.jpg" data-size="1919x1412"><img loading="lazy" src="https://zhanatbags.pl/media/posts/79/gallery/kaRktkhkG4A-thumbnail.jpg" alt="" width="768" height="565"></a></figure>
@@ -283,13 +323,14 @@
         </author>
         <link href="https://zhanatbags.pl/nerka-m-obiciowa-w-kolorze-brazawym/"/>
         <id>https://zhanatbags.pl/nerka-m-obiciowa-w-kolorze-brazawym/</id>
+        <media:content url="https://zhanatbags.pl/media/posts/78/Zwk1ZHLVwj8.jpg" medium="image" />
             <category term="nerki"/>
 
         <updated>2022-12-05T23:50:16+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://zhanatbags.pl/media/posts/78/Zwk1ZHLVwj8.jpg" alt="" />
+                    <p><img src="https://zhanatbags.pl/media/posts/78/Zwk1ZHLVwj8.jpg" class="type:primaryImage" alt="" /></p>
                 
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/78/gallery/Zwk1ZHLVwj8.jpg" data-size="1170x850"><img loading="lazy" src="https://zhanatbags.pl/media/posts/78/gallery/Zwk1ZHLVwj8-thumbnail.jpg" alt="" width="768" height="558"></a></figure>
@@ -304,35 +345,6 @@
 </div>
 </div>
 
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Plecak wodoodporny we wzory orientalne </title>
-        <author>
-            <name>ZHANAT BAGS</name>
-        </author>
-        <link href="https://zhanatbags.pl/plecak-wodoodporny-we-wzory-orientalne/"/>
-        <id>https://zhanatbags.pl/plecak-wodoodporny-we-wzory-orientalne/</id>
-            <category term="plecaki"/>
-
-        <updated>2023-01-30T10:41:09+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://zhanatbags.pl/media/posts/76/CuWkP3q7BqU.jpg" alt="" />
-                
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/76/gallery/CuWkP3q7BqU.jpg" data-size="1056x1624"><img loading="lazy" src="https://zhanatbags.pl/media/posts/76/gallery/CuWkP3q7BqU-thumbnail.jpg" alt="" width="768" height="1181"></a></figure>
-<figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/76/gallery/m51UcwhVxyY.jpg" data-size="1028x1624"><img loading="lazy" src="https://zhanatbags.pl/media/posts/76/gallery/m51UcwhVxyY-thumbnail.jpg" alt="" width="768" height="1213"></a></figure>
-<figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/76/gallery/vidVNMS3MGk.jpg" data-size="1062x1624"><img loading="lazy" src="https://zhanatbags.pl/media/posts/76/gallery/vidVNMS3MGk-thumbnail.jpg" alt="" width="768" height="1174"></a></figure>
-<figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/76/gallery/XAD02J8uU-w-2.jpg" data-size="1218x1624"><img loading="lazy" src="https://zhanatbags.pl/media/posts/76/gallery/XAD02J8uU-w-2-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
-</div></div>
-
-<p>Plecak z materiału  wodoodpornego w połączeniu ze wzorem orientalnym.  Plecy i dno plecaka usztywnione pianką tapicerską. Plecak posiada: kieszeń na laptopa 15cali (26cm(szer.) X 33cm(wys.), wewnątrz mała kieszeń na zamek, dwie dodatkowe kieszonki, zewnątrz kieszeni z przodu i z tylu zapinane na zamek. Podszewka w kolorze brązowym. </p>
-<p>Wymiary plecaka: 40cm(szer.) X 46cm(wys.)  X 12cm(głęb.)</p>
-<p>Dostępny jest od ręki, w cenie: 210 PLN (wysyłka przez paczkomat InPost jest darmowa) </p>
-<p>Możliwa realizacja na zamówienie w dowolnym dla Ciebie kolorze/wzorze. Czas realizacji 7-10 dni roboczych(jeśli tkanina jest na zamówienie, to czas realizacji przedłuża się na 3-4dni). W razie jakichkolwiek pytań - jesteśmy do Twojej dyspozycji. Zapraszamy!:)</p>
             ]]>
         </content>
     </entry>
