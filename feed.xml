@@ -3,7 +3,7 @@
     <title>ZHANAT BAGS</title>
     <link href="https://zhanatbags.pl/feed.xml" rel="self" />
     <link href="https://zhanatbags.pl" />
-    <updated>2023-06-28T13:17:36+02:00</updated>
+    <updated>2023-06-28T13:24:48+02:00</updated>
     <author>
         <name>ZHANAT BAGS</name>
     </author>
@@ -16,11 +16,14 @@
         </author>
         <link href="https://zhanatbags.pl/nerka-mietowa-w-wazki/"/>
         <id>https://zhanatbags.pl/nerka-mietowa-w-wazki/</id>
+        <media:content url="https://zhanatbags.pl/media/posts/100/v8TiE0kVwqg.jpg" medium="image" />
+            <category term="nerki"/>
 
-        <updated>2023-06-28T13:17:36+02:00</updated>
+        <updated>2023-06-28T13:24:48+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://zhanatbags.pl/media/posts/100/v8TiE0kVwqg.jpg" class="type:primaryImage" alt="" /></p>
                 
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://zhanatbags.pl/media/posts/100/gallery/v8TiE0kVwqg.jpg" data-size="1218x1624"><img loading="lazy" src="https://zhanatbags.pl/media/posts/100/gallery/v8TiE0kVwqg-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
