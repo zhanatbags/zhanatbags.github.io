@@ -131,21 +131,6 @@
             "date_modified": "2023-12-01T16:32:30+01:00"
         },
         {
-            "id": "https://zhanatbags.pl/kosmetyczki/",
-            "url": "https://zhanatbags.pl/kosmetyczki/",
-            "title": "Kosmetyczki ",
-            "content_html": "\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://zhanatbags.pl/media/posts/118/gallery/in8toJ6xJQ8.jpg\" data-size=\"1620x2160\"><img loading=\"lazy\" src=\"https://zhanatbags.pl/media/posts/118/gallery/in8toJ6xJQ8-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://zhanatbags.pl/media/posts/118/gallery/MHtD0PvE3dY.jpg\" data-size=\"1620x2160\"><img loading=\"lazy\" src=\"https://zhanatbags.pl/media/posts/118/gallery/MHtD0PvE3dY-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://zhanatbags.pl/media/posts/118/gallery/2cSw19mjUG0.jpg\" data-size=\"1620x2160\"><img loading=\"lazy\" src=\"https://zhanatbags.pl/media/posts/118/gallery/2cSw19mjUG0-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n</div></div>\n\n<p class=\"msg msg--success\"> Wymiary kosmetyczki Magnolii: 32cm(szer.) X 13cm(wys.) X 8cm(głęb.) </p>\n<p class=\"msg msg--success\">Wymiary kosmetyczki Orientalnej: 24cm(szer.) X 15cm(wys.) X 8cm(głęb.)</p>\n<p class=\"msg msg--highlight  msg--success\">Wymiary kosmetyczki Róża : 28cm(szer.) X 13cm(wys.) X 6cm(głęb.)</p>\n<p class=\"msg msg--highlight \"><strong>Dostępna od ręki - </strong><strong>CENA</strong><strong>: 85 PLN</strong> (wysyłka przez paczkomat InPost jest darmowa)</p>\n<p>Możliwa realizacja na zamówienie w dowolnym dla Ciebie kolorze/wzorze. Czas realizacji 7-10 dni roboczych(jeśli tkanina jest na zamówienie, to czas realizacji przedłuża się na 3-4dni). W razie jakichkolwiek pytań - jesteśmy do Twojej dyspozycji. Zapraszamy:)</p>",
-            "image": "https://zhanatbags.pl/media/posts/118/mN7dOqLEIZE.jpg",
-            "author": {
-                "name": "ZHANAT BAGS"
-            },
-            "tags": [
-                   "kosmetyczki"
-            ],
-            "date_published": "2023-10-22T15:21:19+02:00",
-            "date_modified": "2023-10-22T15:21:19+02:00"
-        },
-        {
             "id": "https://zhanatbags.pl/kosmetyczka-pikowana-bezowa/",
             "url": "https://zhanatbags.pl/kosmetyczka-pikowana-bezowa/",
             "title": "Kosmetyczka pikowana beżowa",
@@ -158,6 +143,21 @@
             ],
             "date_published": "2023-10-22T14:56:51+02:00",
             "date_modified": "2023-11-25T14:41:43+01:00"
+        },
+        {
+            "id": "https://zhanatbags.pl/pikowana-kosmetyczka-we-wzory-sloneczne/",
+            "url": "https://zhanatbags.pl/pikowana-kosmetyczka-we-wzory-sloneczne/",
+            "title": "Pikowana kosmetyczka we wzory słoneczne ",
+            "content_html": "\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://zhanatbags.pl/media/posts/114/gallery/4ROJnUs8U5U.jpg\" data-size=\"1620x2160\"><img loading=\"lazy\" src=\"https://zhanatbags.pl/media/posts/114/gallery/4ROJnUs8U5U-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://zhanatbags.pl/media/posts/114/gallery/mRjR2-ZTzK8.jpg\" data-size=\"1625x2160\"><img loading=\"lazy\" src=\"https://zhanatbags.pl/media/posts/114/gallery/mRjR2-ZTzK8-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1021\"></a></figure>\n</div></div>\n\n<p class=\"msg msg--success\">Pikowana kosmetyczka z materiału bawełnianego we wzory złoneczne w zestawie etui na małe rzeczy </p>\n<p>- podszewka z materiału bawełnianego</p>\n<p class=\"msg msg--success\"> Wymiary kosmetyczki: 19cm(szer.) X 6cm(wys.) X 9cm(głęb.) </p>\n<p class=\"msg msg--success\">etui: 10cm(szer.) X 9cm(wys.)</p>\n<p class=\"msg msg--highlight \"><strong>Dostępna od ręki - </strong><strong>CENA</strong><strong>: 85 PLN</strong> (wysyłka przez paczkomat InPost jest darmowa)</p>\n<p>Możliwa realizacja na zamówienie w dowolnym dla Ciebie kolorze/wzorze. Czas realizacji 7-10 dni roboczych(jeśli tkanina jest na zamówienie, to czas realizacji przedłuża się na 3-4dni). W razie jakichkolwiek pytań - jesteśmy do Twojej dyspozycji. Zapraszamy:)</p>",
+            "image": "https://zhanatbags.pl/media/posts/114/4ROJnUs8U5U.jpg",
+            "author": {
+                "name": "ZHANAT BAGS"
+            },
+            "tags": [
+                   "kosmetyczki"
+            ],
+            "date_published": "2023-08-22T19:01:26+02:00",
+            "date_modified": "2023-10-22T14:54:01+02:00"
         }
     ]
 }
